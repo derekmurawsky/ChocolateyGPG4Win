@@ -1,6 +1,6 @@
 ﻿$packageName = 'Gpg4win'
 $installerType = 'EXE'
-$url = 'http://files.gpg4win.org/gpg4win-2.2.2.exe'
+$url = 'http://files.gpg4win.org/gpg4win-2.2.3.exe'
 $url64 = $url
 $silentArgs = '/S'
 $validExitCodes = @(0)
